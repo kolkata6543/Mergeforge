@@ -1,0 +1,6 @@
+{
+  "name": "MemeForge AI - Magic Meme Generator",
+  "description": "Create hilarious memes with AI image analysis, instant Magic Captions powered by Gemini, trending templates, and custom canvas styling.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
